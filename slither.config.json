@@ -1,0 +1,7 @@
+{
+    "pragma": "0.8.0",
+    "remappings": [
+      "@openzeppelin/=/node_modules/@openzeppelin/"
+    ]
+  }
+  
